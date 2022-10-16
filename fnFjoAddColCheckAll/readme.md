@@ -1,4 +1,6 @@
 # fnFjoAddColCheckAll
+![version](https://img.shields.io/badge/Version-1.0-brightgreen)  ![Excel template versionversion](https://img.shields.io/badge/Excel%20template%20version-1.6-brightgreen) 
+
 Add a new column CHECK_ALL (default value) to quickly check if there are difference or not.
 > _function (<code>inputTable</code> as table, <code>listCheckedColumns</code> as list, optional <code>newColumnName</code> as text) as table_
 
